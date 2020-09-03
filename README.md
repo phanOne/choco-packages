@@ -1,6 +1,6 @@
 # choco-packages
 
-[@connorads](https://github.com/connorads) favourite [Chocolatey](https://chocolatey.org) packages 🍫
+Forked from [@connorads](https://github.com/connorads) favourite [Chocolatey](https://chocolatey.org) packages 🍫
 
 Install and/or update all your favourite Windows software using a few commands
 
